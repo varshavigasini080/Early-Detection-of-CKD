@@ -23,6 +23,7 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+6. You can view it on your browser using  http://127.0.0.1:5000/
 
 ## Dataset Links
 
